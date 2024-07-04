@@ -9,7 +9,19 @@
     FoodBreadBun: 1
     ClothingHeadMailCarrier: 1
     FoodMeatCat: 1
-
+    
+#Soup
+- type: microwaveMealRecipe
+  id: RecipeElectronSoup
+  name: electron soup recipe
+  result: FoodSoupElectron
+  time: 10
+  reagents:
+    Licoxide: 5
+    Plasma: 5
+  solids:
+    FoodBowlBig: 1
+    
 #Other
 
 - type: microwaveMealRecipe
