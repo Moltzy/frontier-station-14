@@ -22,6 +22,16 @@
   solids:
     FoodBowlBig: 1
     
+- type: microwaveMealRecipe
+  id: RecipeJellyDuff
+  name: jelly duff recipe
+  result: FoodJellyDuff
+  time: 10
+  reagents:
+    RootBeer: 15
+  solids:
+    FoodJellyAmanita: 1
+
 #Other
 
 - type: microwaveMealRecipe
