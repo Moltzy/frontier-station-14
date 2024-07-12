@@ -35,6 +35,16 @@
 #Other
 
 - type: microwaveMealRecipe
+  id: RecipeBoiledEgg
+  name: boiled egg recipe
+  result: FoodEggBoiled
+  time: 10
+  reagents:
+    Water: 10
+  solids:
+    FoodEgg: 1
+
+- type: microwaveMealRecipe
   id: RecipeCatCrispy
   name: cat crispy recipe
   result: MobCatCrispy
