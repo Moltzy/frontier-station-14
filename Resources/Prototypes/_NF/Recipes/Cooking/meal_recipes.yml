@@ -33,6 +33,14 @@
   solids:
     FoodJellyAmanita: 1
 
+- type: microwaveMealRecipe
+  id: RecipeSoupMystery
+  name: soup mystery recipe
+  result: FoodSoupMystery
+  time: 10
+  reagents:
+  Water:
+
 #Other
 
 - type: microwaveMealRecipe
