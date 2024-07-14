@@ -28,7 +28,8 @@
   result: FoodJellyDuff
   time: 10
   reagents:
-    RootBeer: 15
+    RootBeer: 10
+    Desoxyephedrine: 5
   solids:
     FoodJellyAmanita: 1
 
